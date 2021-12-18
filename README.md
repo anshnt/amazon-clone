@@ -1,6 +1,6 @@
-# Check the [Amazon Clone](https://ansh-amazon.herokuapp.com/)
+# Check the [Amazon Clone](https://fir-9080e.web.app/)
 
-https://fir-9080e.web.app/
+<!-- https://ansh-amazon.herokuapp.com/ -->
 
 # Getting Started with Create React App
 
